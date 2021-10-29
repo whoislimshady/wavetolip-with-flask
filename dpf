@@ -1,0 +1,615 @@
+[33mcommit a626f921186b4bd783ea250d0436e4e2b8e8ca73[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: harsh <2028202@kiit.ac.in>
+Date:   Fri Oct 29 20:07:48 2021 +0530
+
+    first commit
+
+[33mcommit 6f75568016f3ed0359fe625efc5a8c30710b9b09[m[33m ([m[1;31morgin/master[m[33m)[m
+Author: harsh <2028202@kiit.ac.in>
+Date:   Fri Oct 29 20:04:15 2021 +0530
+
+    initial dev
+
+[33mcommit b9759a3467cb1b7519f1a3b91f5a84cb4bc1ae4a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Tue Aug 10 09:38:52 2021 +0530
+
+    Update README.md
+
+[33mcommit 0b28076cd8464fd9738537026d758cd1de1d06fe[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sun Jul 25 07:53:30 2021 +0530
+
+    Update README.md
+
+[33mcommit 08ef628419b9cc212c9a1c63df5ba4daf64f98fe[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Jul 24 09:20:59 2021 +0530
+
+    Update README.md
+
+[33mcommit 8ba31869ad0539c28266852061f06d42b2db7b25[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Jul 10 09:16:41 2021 +0530
+
+    Update README.md
+
+[33mcommit ae9aee3fb8ab1508cb30841b754e865e32917b9d[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Jul 10 09:15:01 2021 +0530
+
+    Update README.md
+
+[33mcommit 80c01f9fe1aaa07e19c1e3088744bb8500cb45fa[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Fri May 28 09:18:20 2021 +0530
+
+    Update README.md
+
+[33mcommit 5f255d5cf77abe835d7f6bded0f74f53fae3de9d[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Thu May 27 17:50:43 2021 +0530
+
+    Added the link to a better collab notebook
+    
+    Acknowledged Zabique
+
+[33mcommit 403bc711dfb70171c09233ba9cf765b290f76e32[m
+Merge: deeec76 06b5fdb
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Mar 9 10:34:23 2021 +0530
+
+    Merge pull request #224 from snehitvaddi/master
+    
+    Updated README.md file.
+
+[33mcommit 06b5fdbb09d1a7241d652e8bb29393f4fd00c227[m
+Author: Snehit Vaddi <35267863+snehitvaddi@users.noreply.github.com>
+Date:   Mon Mar 8 20:22:51 2021 +0530
+
+    Update README.md
+
+[33mcommit 9de7ffa24778733d6d5944a95e3d3ddb3efe1c6b[m
+Author: Snehit Vaddi <35267863+snehitvaddi@users.noreply.github.com>
+Date:   Mon Mar 8 20:22:00 2021 +0530
+
+    Update README.md
+
+[33mcommit 4291a27d6eeae2bd4a9261bf6073aaf2977847f3[m
+Author: Snehit Vaddi <35267863+snehitvaddi@users.noreply.github.com>
+Date:   Mon Mar 8 20:20:20 2021 +0530
+
+    Update README.md
+
+[33mcommit deeec76ee8dba10cad6ef133e068659faf707f1e[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Thu Jan 14 11:01:29 2021 +0530
+
+    Linking for https://github.com/Rudrabha/Wav2Lip/issues/196
+
+[33mcommit 143e969123218405b74b7d330a09c5c063fe17db[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sat Jan 9 22:39:43 2021 +0530
+
+    After https://github.com/Rudrabha/Wav2Lip/pull/191
+
+[33mcommit 8eb92b891b8c1fd93d1e8165f790d88a768271b9[m
+Merge: 67eacb1 b5cc987
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sat Jan 9 22:37:33 2021 +0530
+
+    Merge pull request #191 from burning846/master
+    
+    remove tensorflow
+
+[33mcommit b5cc987ad924f3bb77b33b809e7dcf2846a76d7e[m
+Author: burning <sbn1998@pku.edu.cn>
+Date:   Sat Jan 9 16:51:42 2021 +0800
+
+    remove tensorflow
+
+[33mcommit 67eacb185d34b8843c3d4309c6d2d0379342065c[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Jan 5 10:02:34 2021 +0530
+
+    Citing https://github.com/Rudrabha/Wav2Lip/issues/185
+
+[33mcommit d6b84272fd48d501b5ede1ee0c1795d20f445d0c[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Nov 16 08:49:29 2020 +0530
+
+    Dont call via shell for Windows
+
+[33mcommit 68318daf13b71be80659015cf138d2312a893c14[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Nov 11 21:01:28 2020 +0530
+
+    Updated docker image link https://github.com/Rudrabha/Wav2Lip/issues/131
+
+[33mcommit fc214f5daa1309bdba1dc29a9df25cb8481961b6[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Nov 11 12:37:57 2020 +0530
+
+    Fix for https://github.com/Rudrabha/Wav2Lip/issues/136
+
+[33mcommit 615b64017dbdb8fb8c095fb4a5f1619bb21a403d[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Nov 11 09:34:05 2020 +0530
+
+    Add tutorial link
+
+[33mcommit 7d273125dcf6ae42b0bd1b4dc51b92f6bbe967fb[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Mon Nov 2 18:03:57 2020 +0530
+
+    Update README.md
+
+[33mcommit fec04b3a099e04fe5bac0fec2fcc9632cd5934ba[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Oct 28 20:33:52 2020 +0530
+
+    Update Python version
+
+[33mcommit b829e7d119eff0df045b982e8363cd11e0003d1f[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Oct 28 09:53:12 2020 +0530
+
+    Add FID score instructions.
+
+[33mcommit fda2a15d1437d8a66cdf978e4bedb17652a6276c[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 15:17:30 2020 +0530
+
+    Bugfix
+    
+    Credit: https://github.com/Rudrabha/Wav2Lip/issues/109#issuecomment-716413308
+
+[33mcommit 121a7ca355b104d362efc91533c41b4d48f736ea[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 11:55:16 2020 +0530
+
+    Typo fix
+
+[33mcommit 93eaf467f75367c0b2d25e00203e1013517aa76b[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 11:53:27 2020 +0530
+
+    Update README.md
+
+[33mcommit 1d05a4ae366c0feac72e1e028bfd1a76bee23ec7[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 11:48:07 2020 +0530
+
+    Release of LRS2, LRS3, LRW filelists
+
+[33mcommit cfc0580b33e5835f8a71f1cb53696b745d60845c[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 11:37:55 2020 +0530
+
+    Added LRS2, LRW, LRS3 filelists
+
+[33mcommit 79bcc89ae701214d51b4982b3e45fc60a63ef1a0[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Oct 26 11:36:36 2020 +0530
+
+    Releasing filelists of LRW, LRS2, LRS3 datasets
+
+[33mcommit d41b9b102015013ab23d4f0bd61736e717e37db7[m
+Merge: 7ea7ef8 ba6289a
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Thu Oct 22 19:50:51 2020 +0530
+
+    Merge pull request #115 from mowshon/patch-1
+    
+    Face detection checkpoint will be downloaded automatically.
+
+[33mcommit ba6289a866fe06d628de5091622817ff9ceba066[m
+Author: Student B <vasile.buldumac@ati.utm.md>
+Date:   Thu Oct 22 16:50:38 2020 +0300
+
+    The file "s3fd.pth" will never load automatically
+    
+    We check if path_to_detector is None, but `path_to_detector` will never be None because he is hardcoded in method params.
+    Hence, the file will never be automatically downloaded. I suggest checking if such a file exists and if not, then load it via the "load_url" method.
+
+[33mcommit 7ea7ef896172d651bb22172272d7b9a1ffbde6aa[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Wed Oct 14 12:43:26 2020 +0530
+
+    Updated the citation information.
+    
+    ACM DL bibtex is updated in place of the arxiv one.
+
+[33mcommit 5a5a4d026fe7dbfedcaafad235ed78de90fc822a[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sat Oct 10 13:36:33 2020 +0530
+
+    Another typo
+
+[33mcommit d5582bcbc48d42b9047327ee3aaaca88ba37a660[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Oct 6 10:56:24 2020 +0530
+
+    Correction in license terms
+
+[33mcommit 929e3caa247d45989e201e43fe17f19c7e99ae56[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Oct 4 09:52:34 2020 +0530
+
+    Typo fix
+
+[33mcommit 34cd5734be0766e87dcc9780074939c971e49fe9[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Oct 3 21:57:49 2020 +0530
+
+    Updated the real videos
+
+[33mcommit 4f68fc1df943ca95c035840e9096ae6020d91a79[m
+Author: rudrabha <rudrabha@gmail.com>
+Date:   Sat Oct 3 21:41:51 2020 +0530
+
+    Added eval script for the real videos
+
+[33mcommit c72e2d0e7c7421e03e4cead9ede388b71d4cb836[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sat Oct 3 10:51:13 2020 +0530
+
+    Force args.face to be a valid file
+
+[33mcommit 43419e613579840d03b0f8d074d052ec2a491147[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Oct 3 10:13:30 2020 +0530
+
+    Added acknowledgements
+
+[33mcommit edae10fb504fbe59ae78a9587e6e4f09a171d426[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Oct 3 10:06:01 2020 +0530
+
+    Update README.md
+
+[33mcommit 3048445e074dfbf163a50be2333fa4147842b657[m
+Author: Rudrabha <rudrabha@gmail.com>
+Date:   Sat Oct 3 10:04:46 2020 +0530
+
+    Changed names of folders
+
+[33mcommit f83925dfd37a74bd97f7c6cc93ed9ce4eddc2a3b[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sat Oct 3 10:03:21 2020 +0530
+
+    Update README.md
+
+[33mcommit b95aea8f6eef4fb2d132dbed97a0451b618e9be4[m
+Author: Rudrabha <rudrabha@gmail.com>
+Date:   Sat Oct 3 09:58:11 2020 +0530
+
+    filename changed
+
+[33mcommit a97c6950d44466658e6f6918fc564d22075e2755[m
+Author: Rudrabha <rudrabha@gmail.com>
+Date:   Sat Oct 3 09:53:04 2020 +0530
+
+    Changed the filename
+
+[33mcommit f0ba99afc872aa5a8eb75b49346c0ff95a6105f7[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Fri Oct 2 22:52:40 2020 +0530
+
+    Update README.md
+
+[33mcommit d25035a8d0d35cacf10796cad5fd34b4ecf2e90b[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Fri Oct 2 22:40:06 2020 +0530
+
+    Added instructions for LRW, LRS2 & LRS3 evaluation
+
+[33mcommit 07b5fae35121c9c5e9308c06c48da5d8fe5fd44b[m
+Author: rudrabha <rudrabha@gmail.com>
+Date:   Thu Sep 24 13:00:35 2020 +0530
+
+    Added scripts for lrs videos
+
+[33mcommit ae049239717911b37ff749c3bfa71bb0290f0d60[m
+Author: rudrabha <rudrabha@gmail.com>
+Date:   Thu Sep 24 12:55:09 2020 +0530
+
+    Added scripts for calculating scores
+
+[33mcommit fc720e24cc9b55ae2abbfd1baa8ef0765030b205[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Sep 20 22:00:18 2020 +0530
+
+    Add Google drive link for colab.
+
+[33mcommit 96bab2a6a2a7b79957db4de9634d003f5b1c6dec[m
+Merge: d7259e5 2001f1a
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Fri Sep 18 07:04:17 2020 +0530
+
+    Merge pull request #58 from JonathanSum/patch-1
+    
+    typo "collab"
+
+[33mcommit 2001f1aa8d3ea0bb0ec42cb62b61593cdd0cd097[m
+Author: Happy Sugar Life <777Jonathansum@gmail.com>
+Date:   Thu Sep 17 12:38:34 2020 -1200
+
+    typo "collab"
+
+[33mcommit d7259e531bf984c6af1eef6ea4511923694c1ac6[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Sep 15 19:58:44 2020 +0530
+
+    Remove data parallelism
+
+[33mcommit b3a417f48e1f300a4426f74fce089662e835333a[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Sep 15 12:07:04 2020 +0530
+
+    Add loss info
+
+[33mcommit e5b542462dd2e2bf8fc2c10a9135af2a64a38a47[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Sep 14 15:57:23 2020 +0530
+
+    Suggestions for training on a different dataset
+
+[33mcommit 5f973ccb7aa640731475ae8a9fb65579dfb37036[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Sep 14 15:25:24 2020 +0530
+
+    Clarify the Python version
+
+[33mcommit 56ba6fa38f62ffaae60fe311f8720c92c2dd0119[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Sep 14 12:24:56 2020 +0530
+
+    Update requirements.txt
+
+[33mcommit cf6596de14dcc07c4cf031d2463c870d44c7475f[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Sep 13 12:53:05 2020 +0530
+
+    Add suggestion about nosmooth
+
+[33mcommit 11a8eac1aa03c27596961b7218845f0028035bc7[m
+Merge: 8549b79 47d29fe
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Sep 13 11:27:47 2020 +0530
+
+    Merge pull request #48 from dipam7/master
+    
+    fix non-smoothed boxes output
+
+[33mcommit 47d29fea0d69469d102fd2b278d1886853619c67[m
+Author: Dipam Vasani <dipam44@gmail.com>
+Date:   Sun Sep 13 01:02:53 2020 -0400
+
+    fix non-smoothed boxes output
+
+[33mcommit 8549b79e14b3fe48e750da5d8635894723babd10[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sun Sep 13 08:57:51 2020 +0530
+
+    Added user control for smoothing face dets
+
+[33mcommit 0600d0f4da5ce75865725249fdcb88b6dc2d61de[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sat Sep 12 09:53:46 2020 +0530
+
+    Fix: Generate last frame
+
+[33mcommit 3baacdaf3f740256f0fc42b597b6a2eff6011b23[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Thu Sep 10 17:47:36 2020 +0530
+
+    added fps comment
+
+[33mcommit 3a264a7012024330e0c5fa128ed685b3bc696cc5[m
+Merge: f21bae2 88c57a9
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Thu Sep 10 07:21:21 2020 +0530
+
+    Merge pull request #33 from dipam7/master
+    
+    fix directory structure in error message
+
+[33mcommit 88c57a9c9da7306c8827ff508c6c29f54d9a31d6[m
+Author: Dipam Vasani <dipam44@gmail.com>
+Date:   Wed Sep 9 18:10:12 2020 -0400
+
+    fix directory structure in error message
+
+[33mcommit f21bae2b6e870b1b35d3602456ea9b57e89f17c1[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Sep 9 15:08:04 2020 +0530
+
+    Update TF version
+
+[33mcommit 11550a0e9d2b9a642d6ae996155ee9c754d234c2[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Wed Sep 9 13:56:42 2020 +0530
+
+    Added clear disclaimer
+
+[33mcommit 07a1e2972131f065cd9d2cc77a51e2507e2db346[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Sep 8 20:11:15 2020 +0530
+
+    Typo fix
+
+[33mcommit b983ca89214b8c8904f248ea10ae297564cd0931[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Sep 8 17:21:14 2020 +0530
+
+    Added terms of use
+
+[33mcommit ab19e51229ad4248060d0c73afc42378f37b769d[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Tue Sep 8 17:08:37 2020 +0530
+
+    Update README.md
+
+[33mcommit 9e98706b60041149edb51b470a0aba8af73b845f[m
+Merge: f043ec6 b3451ee
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Fri Sep 4 20:17:49 2020 +0530
+
+    Merge branch 'master' of https://github.com/Rudrabha/Wav2Lip
+
+[33mcommit f043ec6f2c376b1a958f63c65b484c1553420c91[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Fri Sep 4 20:17:04 2020 +0530
+
+    Added additional inference options
+
+[33mcommit b3451ee9f92ebebea55b8349020d46c566c3202a[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Thu Sep 3 14:16:52 2020 +0530
+
+    Added demo video link
+
+[33mcommit c77c82aee71fea22c3b63c991b4cdead68d84152[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 31 16:53:21 2020 +0530
+
+    Added option to specify a face box
+
+[33mcommit fda01ed96908c18b4b69722a6c39d574023f96c1[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 31 16:20:36 2020 +0530
+
+    Alternative link for face detection model
+
+[33mcommit d27e32bad0b841bd65ef85d66165e0e05751828b[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 31 16:12:32 2020 +0530
+
+    Audio-indexing off by one step
+
+[33mcommit 1e903f5658c4fcdcd7cb0e17cda8963f8c95dd18[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 31 16:12:05 2020 +0530
+
+    Audio-indexing off by one step
+
+[33mcommit 0061322cefec8bb7a1cfba1241a8c46aa54855bd[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 31 16:11:30 2020 +0530
+
+    Audio-indexing off by one step
+
+[33mcommit 4a71b69fba8cbc6affc8a17b59da806d223cc8fa[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 30 20:04:16 2020 +0530
+
+    Added SoTA badges
+
+[33mcommit 66d2a959e249a5aa7bce70b9f5b35e0de72c5be4[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 30 15:12:19 2020 +0530
+
+    Another preprocessing bug
+
+[33mcommit d0eaaeee20b1590e997fe465fb9e52e4d4b6497c[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 30 15:11:31 2020 +0530
+
+    Preprocessing bug
+
+[33mcommit 9a28e5e12521c2cba31e48d445173c8282ed1939[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 30 15:01:22 2020 +0530
+
+    Crop bug fix
+
+[33mcommit 8c6d1d3947f28faf8cc186ca147ce70d03f31535[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 30 14:05:21 2020 +0530
+
+    Added crop feature
+
+[33mcommit 2f51108beb6826242737cb21420af61fbee89ef6[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Fri Aug 28 23:27:06 2020 +0530
+
+    Another undefined variable fix
+
+[33mcommit 35d96b32814cb9684e0af64b901f9f114f8a5f24[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Fri Aug 28 21:14:00 2020 +0530
+
+    Reduce sync loss weight
+
+[33mcommit d2dfac459767d183fb47c568050134c12af659f3[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Fri Aug 28 21:06:39 2020 +0530
+
+    Bug fixes
+
+[33mcommit 151859f68cd9e4a44aed9d247980f5ab9f3991ae[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Fri Aug 28 15:58:57 2020 +0530
+
+    Added weights to the lipsync expert
+
+[33mcommit 6472a288fe545f7ed83bdbb90f0487e8ab2b1937[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Thu Aug 27 10:23:08 2020 +0530
+
+    Added citation information in readme
+
+[33mcommit 327060a10c0b205f46690572781c99e0423007eb[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Tue Aug 25 08:57:41 2020 +0530
+
+    Added paper link
+
+[33mcommit f332904880d549824aa3a845642f97c50a9cded8[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Mon Aug 24 23:25:55 2020 +0530
+
+    Update README.md
+
+[33mcommit ab396dc01cd40bb6d3f15a52a55d62944ea449e7[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 24 22:47:13 2020 +0530
+
+    Added the interactive demo link at another place
+
+[33mcommit d6035989984697f170694c7ba59414f77d88a84c[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 24 22:45:12 2020 +0530
+
+    Added the Colab Notebook
+
+[33mcommit ee4b4835757739b9362c308f4e4fe6580621a2f6[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 24 22:22:00 2020 +0530
+
+    No need a GPU version of TF.
+
+[33mcommit d3b3b530fb0be1e48c89c68b3bbdbd3e4c3724e2[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Sun Aug 23 22:47:51 2020 +0530
+
+    Update README.md
+
+[33mcommit 912cf2bc0b78d7e23629c5a8357ce45576b24484[m
+Author: Prajwal <prajwalrenukanand@gmail.com>
+Date:   Sun Aug 23 22:41:15 2020 +0530
+
+    Added GIF and checkpoint links
+
+[33mcommit db7bc44a861f560479bbbe1f4782bd2467120c64[m
+Author: prajwalkr <prajwalrenukanand@gmail.com>
+Date:   Mon Aug 17 22:38:19 2020 +0530
+
+    Initial commit
+
+[33mcommit be07dd0c05cc6b9b2ffbbfb7e17944a87591ab47[m
+Author: Rudrabha Mukhopadhyay <35054375+Rudrabha@users.noreply.github.com>
+Date:   Fri Aug 7 13:36:39 2020 +0530
+
+    Initial commit
