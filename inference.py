@@ -12,10 +12,13 @@ parser = argparse.ArgumentParser(description='Inference code to lip-sync videos 
 
 checkpoint_path="checkpoints/wav2lip_gan.pth"
 parser.add_argument('--audio', type=str, 
-					help='Filepath of video/audio file to use as raw audio source', required=True)
+					help='Filepath of video/audio file to use as raw audio source', default="./sample_data/input_audio.wav")
+
 face = "./sample_data/input_vid.mp4"
 
 
+parser.add_argument('--outfile', type=str, help='Video path to save result. See default for an e.g.', 
+								default='results/result_voice.mp4')
 parser.add_argument('--static', type=bool, 
 					help='If True, then use only first video frame for inference', default=False)
 parser.add_argument('--fps', type=float, help='Can be specified only if input is a static image (default: 25)', 
