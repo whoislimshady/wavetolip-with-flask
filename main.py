@@ -1,8 +1,10 @@
 import os
 from app import app
 #import urllib.request
-from flask import Flask, flash, request, redirect, url_for, render_template
+
+from flask import Flask, flash,send_file, request, redirect, url_for, render_template
 from werkzeug.utils import secure_filename
+
 from   inference import *
 
 @app.route('/')
@@ -34,12 +36,11 @@ def upload_video():
 		return render_template('upload.html', filename=filename)
 	
 
-@app.route('/display/<filename>')
-def display_video(filename):
-	return redirect(url_for('results', filename), code=301)
 
-
-
+@app.route('/download')
+def downloadFile ():
+    path = "/home/harsh/micro/Python-Flask-Docker/Wav2Lip/results/result_voice.mp4"
+    return send_file(path, as_attachment=True)
 
 if __name__ == "__main__":
     app.run()
